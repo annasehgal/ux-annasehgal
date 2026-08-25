@@ -1,3 +1,3 @@
 # Anna's UX Journal
 
-This is Anna's journal.
+<img src="assets/linkedin2.jpeg" alt="Anna Sehgal's image"> 
