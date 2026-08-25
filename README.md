@@ -1,1 +1,3 @@
-# ___'s UX Journal
+# Anna's UX Journal
+
+This is Anna's journal.
