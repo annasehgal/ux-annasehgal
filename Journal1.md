@@ -1,1 +1,1 @@
-# Journal 1
+# Journal 1: Spotify's Library
