@@ -7,4 +7,4 @@ Hi, I am Anna Sehgal, currently a Senior at California State University, Chico. 
 You can connect with me on LinkedIn here: [LinkedIn](https://www.linkedin.com/in/annasehgal/)
 
 # UX Journal 1
-[j01](Journal1.md)
+[j01](Spotifylibrary-Journal1.md)
