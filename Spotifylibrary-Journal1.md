@@ -1,5 +1,5 @@
 # Journal 1: Spotify's Library
-I was thinking of listening to songs often on different music app platforms, mainly through my laptop through desktop version for MacOS connected to my headphones and was browsing for songs from an older playlist that I saved a few years ago which I did not remember the name so I decided to scroll through each playlist without noticing the playlist filter on top of my library on Spotify. While scrolling, I noticed multiple playlist, including artists that I followed showed up the library. It also even included blends, and playlists that are no longer available.
+I often listen to songs across different music streaming platforms, mainly using the desktop version of Spotify on my MacBook while connected to my headphones. One day, I was browsing for a song from an older playlist that I had saved a few years ago, but I could not remember the playlist's name. I decided to scroll through my playlists in my Spotify library without noticing the playlist filter at the top. While scrolling, I noticed multiple playlists appearing in my library, including playlists from artists I followed. It also included Spotify Blends and playlists that were no longer available.
 
 ### Image of library with artist (to be added)
 
