@@ -3,3 +3,4 @@ I often listen to songs across different music streaming platforms, mainly using
 
 ### Image of library with artist (to be added)
 
+As I scrolled through on my laptop while working on an assignment, I noticed despite search feature, I was unable to find that particular playlist, there was no immediate feedback and lack of natural mapping since the button was all the way on top but hard to notice with many things on the dashboard at once including a play button, recent playlist, this is a pannel that is on the left end and hard to read longer playlist names. I also find it a bit inefficient that some of the playlists mentioned they are no longer available because the one I was looking for seemed to be either deleted or did not show up scrolling up and down a few times. This was quite hard to navigate for me personally despite using spotify for years. I did not realize until I looked at it working on some work along with it. 
